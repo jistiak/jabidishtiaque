@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently Looking for a Full-time opportunity as **Data Scientist** or **Machine Learning Engineer**
+- 🌱 I’m currently learning **DApps** development on **Tezos** Blockchain
+- 👯 I’m looking to collaborate on interesting **Data Science** or **AI** related projects
+
+---
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jabid-ishtiaque/) 
+- 😄 Pronouns: He/his 
