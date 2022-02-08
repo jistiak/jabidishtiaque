@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently Looking for a Full-time opportunity as **Data Scientist** or **Machine Learning Engineer**
-- 🌱 I’m currently learning **DApps** development on **Tezos** Blockchain
+- 🌱 I’m currently learning ins and outs of **Web3**, starting from DApps Development to NFT collection creation
 - 👯 I’m looking to collaborate on interesting **Data Science** or **AI** related projects
+- ⚡ When I'm doing none of the things stated above, I like Playing Guitar, Gaming on my PS4 or just get lost in some Book.
 
 ---
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jabid-ishtiaque/) 
