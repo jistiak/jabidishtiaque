@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World, 👋
 
 <!--
 **jabidishtiaque/jabidishtiaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,14 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-- 🔭 I’m currently Looking for a Full-time opportunity as **Data Scientist** or **Machine Learning Engineer**
-- 🌱 I’m currently learning ins and outs of **Web3**, starting from DApps Development to NFT collection creation
-- 👯 I’m looking to collaborate on interesting **Data Science** or **AI** related projects
-- ⚡ When I'm doing none of the things stated above, I like Playing Guitar, Gaming on my PS4 or just get lost in some Book.
 
 ---
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jabid-ishtiaque/) 
 - 😄 Pronouns: He/his 
+-->
+
+
+- 🔭 I’m currently working as a **Machine Learning and AI Engineer**
+- 🌱 I’m also very interested in **Web3** and the possibilities it brings, that's why I'm learning **DApps Development** during my pastime
+- 👯 I’m looking to collaborate on interesting **ML/DL or AI** related projects
+- ⚡ When I'm doing none of the things stated above, I like Playing Guitar, Gaming on my PS4 or just get lost in some Book.
+
+
