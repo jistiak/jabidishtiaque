@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ I also like Playing Guitar, Gaming or roaming around in the wilderness
 
 
-![J. Istiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jistiak&count_private=true&include_all_commits=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jistiak&exclude_repo=mapbox-gl-js,nebullvm,osm-iD,mmrotate,myria3d,satellite-image-deep-learning,obsidian-translations,segmentation_models.pytorch,bn.javascript.info)
+![J. Istiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jistiak&count_private=true&include_all_commits=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jistiak&layout=compact&exclude_repo=mapbox-gl-js,nebullvm,osm-iD,mmrotate,myria3d,satellite-image-deep-learning,obsidian-translations,segmentation_models.pytorch,bn.javascript.info)
   
 
 
